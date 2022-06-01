@@ -1,4 +1,4 @@
-# PROJECT - A Simple Rock-Paper-scissor game
+# Python Task - A Simple Rock-Paper-scissor game
 
 - A Simple two player game, where the player choose an option and the winner is determined by the set of   rules. task given by zuri
 
